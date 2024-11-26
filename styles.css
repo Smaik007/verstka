@@ -16,7 +16,7 @@ header, main, footer {
     position: relative; /* Добавляем относительное позиционирование для родительского элемента */
 }
 
-.photo {
+.photoLW {
     position: absolute; /* Абсолютное позиционирование для точного размещения */
     top: 60px; /* Отступ сверху */
     left: 113px; /* Отступ слева */
@@ -24,7 +24,14 @@ header, main, footer {
     height: 570px; /* Высота фотографии */
     border-radius: 10px; /* Закругление границ */
 }
-
+.photoRW {
+    position: absolute; /* Абсолютное позиционирование для точного размещения */
+    top: 60px; /* Отступ сверху */
+    left: 698px; /* Отступ слева */
+    width: 555px; /* Ширина фотографии */
+    height: 370px; /* Высота фотографии */
+    border-radius: 10px; /* Закругление границ */
+}
 .footer {    
     height: 742.5px;
     background-color: #cecece;
