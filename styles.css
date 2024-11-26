@@ -22,6 +22,7 @@ header, main, footer {
     left: 113px; /* Отступ слева */
     width: 555px; /* Ширина фотографии */
     height: 570px; /* Высота фотографии */
+    border-radius: 10px; /* Закругление границ */
 }
 
 .footer {    
