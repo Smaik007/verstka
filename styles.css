@@ -7,6 +7,10 @@ body {
     width: 1366px; /* Ширина страницы */
     height: 1485px; /* Высота страницы */
     margin: 0 auto; /* Центрируем страницу */
+    background-image: url('background^.jpg'), url('background_.jpg'); /* Добавляем два фоновых изображения */
+    background-size: 100% 50%; /* Размер фоновых изображений */
+    background-position: top, bottom; /* Позиция фоновых изображений */
+    background-repeat: no-repeat; /* Отключаем повторение фоновых изображений */
 }
 
 /* Стили для шапки сайта */
