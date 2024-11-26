@@ -14,6 +14,13 @@ header, main, footer {
  background-color: #5D5FEF;
  height: 742.5px;
 }
+.photo {
+    position: absolute; /* Абсолютное позиционирование для точного размещения */
+    top: 60px; /* Отступ сверху */
+    left: 113px; /* Отступ слева */
+    width: 555px; /* Ширина фотографии */
+    height: 570px; /* Высота фотографии */
+}
 
 .footer {    
  height: 742.5px;
