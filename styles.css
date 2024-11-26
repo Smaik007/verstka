@@ -14,6 +14,7 @@ header, main, footer {
     background-color: #5D5FEF;
     height: 742.5px;
     position: relative; /* Добавляем относительное позиционирование для родительского элемента */
+    padding: 60px 113px 112.5px 113px;
 }
 
 .photoLW {
