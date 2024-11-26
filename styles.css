@@ -1,17 +1,21 @@
-/* Основные стили для всей страницы */
 body {
-    margin: 0; /* Убираем отступы по умолчанию */
-    padding: 0; /* Убираем отступы по умолчанию */
+    margin: 0;
+    padding: 0; 
     width: 1366px; /* Ширина страницы */
     height: 1485px; /* Высота страницы */
-    margin: 0 auto; /* Центрируем страницу */
-    background-image: url('background1.jpg'), url('background2.jpg'); /* Добавляем два фоновых изображения */
-    background-size: 100% 50%; /* Размер фоновых изображений */
-    background-position: top, bottom; /* Позиция фоновых изображений */
-    background-repeat: no-repeat; /* Отключаем повторение фоновых изображений */
+    margin: 0 auto; 
 }
 
-/* Убираем все стили для текста и элементов */
 header, main, footer {
-    display: none; /* Скрываем все элементы */
+    display: none; 
+}
+
+.readers {
+ background-color: #5D5FEF;
+ height: 742.5px;
+}
+
+.footer {    
+ height: 742.5px;
+ background-color: #cecbcb;
 }
