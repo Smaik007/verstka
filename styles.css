@@ -62,6 +62,13 @@ header, main, footer {
     width: 45px; /* Ширина прямоугольника */
     height: 25px; /* Высота прямоугольника */
     background-color: #FF4F52; /* Цвет прямоугольника */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: center; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: 900; /* Heavy */
+    font-size: 12px; /* Размер шрифта */
+    color: white; /* Цвет текста */
 }
 
 .footer {    
