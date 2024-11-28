@@ -53,6 +53,13 @@ header, main, footer {
     top: 460px;
     left: 990px;
 }
+.avararLW{
+    position: absolute;
+    top: 50px; /* Отступ сверху */
+    left: 255px; /* Отступ слева */
+    width: 45px; /* Ширина прямоугольника */
+    height: 45px; /* Высота прямоугольника */
+}
 
 .red-rectangle {
     position: absolute;
