@@ -13,8 +13,8 @@ header, main, footer {
 .readers {
     background-color: #5D5FEF;
     height: 742.5px;
-    position: relative; /* Добавляем относительное позиционирование для родительского элемента */
     padding: 60px 113px 112.5px 113px;
+    display: flex;
 }
 
 .photoLW {
@@ -35,23 +35,7 @@ header, main, footer {
     border-radius: 10px; /* Закругление границ */
 }
 
-.photoRNIZ1{
-    position: absolute; /* Абсолютное позиционирование для точного размещения */
-    top: 460px; /* Отступ сверху */
-    left: 698px; /* Отступ слева */
-    width: 555px; /* Ширина фотографии */
-    height: 370px; /* Высота фотографии */
-    border-radius: 10px; /* Закругление границ */
-}
 
-.photoRNIZ2{
-    position: absolute; /* Абсолютное позиционирование для точного размещения */
-    top: 460px; /* Отступ сверху */
-    left: 990px; /* Отступ слева */
-    width: 555px; /* Ширина фотографии */
-    height: 370px; /* Высота фотографии */
-    border-radius: 10px; /* Закругление границ */
-}
 
 .footer {    
     height: 742.5px;
