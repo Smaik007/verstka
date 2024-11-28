@@ -25,6 +25,7 @@ header, main, footer {
     width: 555px; /* Ширина фотографии */
     height: 570px; /* Высота фотографии */
     border-radius: 10px; /* Закругление границ */
+    position: relative; /* Добавляем относительное позиционирование для красного прямоугольника */
 }
 
 .photoRW {
@@ -53,7 +54,8 @@ header, main, footer {
     top: 460px;
     left: 990px;
 }
-.avararLW{
+
+.avararLW {
     position: absolute;
     top: 50px; /* Отступ сверху */
     left: 255px; /* Отступ слева */
