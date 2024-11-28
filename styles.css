@@ -25,6 +25,7 @@ header, main, footer {
     width: 555px; /* Ширина фотографии */
     height: 570px; /* Высота фотографии */
     border-radius: 10px; /* Закругление границ */
+    position: relative; /* Добавляем относительное позиционирование для красного прямоугольника */
 }
 
 .photoRW {
@@ -52,6 +53,15 @@ header, main, footer {
 .rectangle2 {
     top: 460px;
     left: 990px;
+}
+
+.red-rectangle {
+    position: absolute;
+    top: 18px; /* Отступ сверху */
+    left: 18px; /* Отступ слева */
+    width: 45px; /* Ширина прямоугольника */
+    height: 25px; /* Высота прямоугольника */
+    background-color: #FF4F52; /* Цвет прямоугольника */
 }
 
 .footer {    
