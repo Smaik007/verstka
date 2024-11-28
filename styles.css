@@ -86,6 +86,14 @@ header, main, footer {
     height: 352px; /* Высота фото */
 }
 
+.ReadMore {
+    position: absolute;
+    top: 280px; /* Отступ сверху */
+    left: 35px; /* Отступ слева */
+    width: 138px; /* Ширина фото */
+    height: 40px; /* Высота фото */
+}
+
 .footer {    
     height: 742.5px;
     background-color: #cecece;
