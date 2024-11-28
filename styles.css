@@ -35,7 +35,7 @@ header, main, footer {
     width: 555px; /* Ширина фотографии */
     height: 370px; /* Высота фотографии */
     border-radius: 10px; /* Закругление границ */
-    position: relative; /* Добавляем относительное позиционирование для Imagedama.png */
+
 }
 
 .rectangle {
