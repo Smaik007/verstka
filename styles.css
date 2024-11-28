@@ -25,7 +25,6 @@ header, main, footer {
     width: 555px; /* Ширина фотографии */
     height: 570px; /* Высота фотографии */
     border-radius: 10px; /* Закругление границ */
-    position: relative; /* Добавляем относительное позиционирование для элементов внутри */
 }
 
 .photoRW {
@@ -35,7 +34,6 @@ header, main, footer {
     width: 555px; /* Ширина фотографии */
     height: 370px; /* Высота фотографии */
     border-radius: 10px; /* Закругление границ */
-    position: relative; /* Добавляем относительное позиционирование для элементов внутри */
 }
 
 .rectangle {
