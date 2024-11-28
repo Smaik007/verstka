@@ -25,6 +25,7 @@ header, main, footer {
     width: 555px; /* Ширина фотографии */
     height: 570px; /* Высота фотографии */
     border-radius: 10px; /* Закругление границ */
+    position: relative; /* Добавляем относительное позиционирование для элементов внутри */
 }
 
 .photoRW {
@@ -34,6 +35,7 @@ header, main, footer {
     width: 555px; /* Ширина фотографии */
     height: 370px; /* Высота фотографии */
     border-radius: 10px; /* Закругление границ */
+    position: relative; /* Добавляем относительное позиционирование для элементов внутри */
 }
 
 .rectangle {
@@ -77,13 +79,15 @@ header, main, footer {
     font-size: 12px; /* Размер шрифта */
     color: white; /* Цвет текста */
 }
-.whatch{
+
+.watch {
     position: absolute;
     top: 185px; /* Отступ сверху */
     left: 365px; /* Отступ слева */
     width: 185px; /* Ширина фото */
     height: 40px; /* Высота фото */
 }
+
 .imageDama {
     position: absolute;
     top: 18px; /* Отступ сверху */
