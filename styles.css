@@ -77,7 +77,13 @@ header, main, footer {
     font-size: 12px; /* Размер шрифта */
     color: white; /* Цвет текста */
 }
-
+.whatch{
+    position: absolute;
+    top: 185px; /* Отступ сверху */
+    left: 365px; /* Отступ слева */
+    width: 185px; /* Ширина фото */
+    height: 40px; /* Высота фото */
+}
 .imageDama {
     position: absolute;
     top: 18px; /* Отступ сверху */
