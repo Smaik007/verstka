@@ -36,7 +36,23 @@ header, main, footer {
     border-radius: 10px; /* Закругление границ */
 }
 
+.rectangle {
+    position: absolute;
+    width: 263px;
+    height: 170px;
+    background-color: white;
+    border-radius: 10px;
+}
 
+.rectangle1 {
+    top: 460px;
+    left: 698px;
+}
+
+.rectangle2 {
+    top: 460px;
+    left: 990px;
+}
 
 .footer {    
     height: 742.5px;
