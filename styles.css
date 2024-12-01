@@ -80,8 +80,8 @@ header, main, footer {
 
 .watch {
     position: absolute;
-    top: 185px; /* Отступ сверху */
-    left: 365px; /* Отступ слева */
+    top: 185px; /* Отступ сверху относительно .photoLW */
+    left: 365px; /* Отступ слева относительно .photoLW */
     width: 185px; /* Ширина фото */
     height: 40px; /* Высота фото */
 }
