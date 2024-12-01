@@ -134,10 +134,26 @@ header, main, footer {
     margin-right: 1rem; /* Отступ справа */
 }
 
-.BackMail{
+.BackMail {
     position: absolute;
     top: 135px; /* Отступ сверху */
     left: 462px; /* Отступ слева */
     width: 313px; /* Ширина фото */
-    height: 40px; /* Высота фото */    
+    height: 40px; /* Высота фото */
+    background-image: url('files/BackMail.png'); /* Добавляем фоновое изображение */
+    background-size: cover; /* Масштабируем фоновое изображение */
+    background-position: center; /* Центрируем фоновое изображение */
+    position: relative; /* Добавляем относительное позиционирование для псевдоэлемента */
+}
+
+.BackMail::before {
+    content: "Enter your email"; /* Текст внутри псевдоэлемента */
+    position: absolute;
+    top: 50%; /* Центрируем по вертикали */
+    left: 10px; /* Отступ слева */
+    transform: translateY(-50%); /* Центрируем по вертикали */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: 400; /* Regular */
+    font-size: 14px; /* Размер шрифта */
+    color: #939699; /* Цвет текста */
 }
