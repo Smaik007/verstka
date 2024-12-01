@@ -320,3 +320,71 @@ header, main, footer {
     font-size: 14px; /* Размер шрифта */
     color: #fff; /* Цвет текста */
 }
+
+.contact {
+    position: absolute;
+    top: 595px; /* Отступ сверху */
+    left: 193px; /* Отступ слева */
+    width: 92px; /* Ширина рамки */
+    height: 20px; /* Высота рамки */
+    background-color: #cecece; /* Цвет фона рамки */
+    border: 2px solid #cecece; /* Цвет и толщина рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: right; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: 900; /* Bolt (жирный) */
+    font-size: 14px; /* Размер шрифта */
+    color: #5D5FEF; /* Цвет текста */
+}
+
+.work {
+    position: absolute;
+    top: 595px; /* Отступ сверху */
+    left: 315px; /* Отступ слева */
+    width: 114px; /* Ширина рамки */
+    height: 20px; /* Высота рамки */
+    background-color: #cecece; /* Цвет фона рамки */
+    border: 2px solid #cecece; /* Цвет и толщина рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: right; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: 900; /* Bolt (жирный) */
+    font-size: 14px; /* Размер шрифта */
+    color: #5D5FEF; /* Цвет текста */
+}
+
+.advertise {
+    position: absolute;
+    top: 595px; /* Отступ сверху */
+    left: 459px; /* Отступ слева */
+    width: 80px; /* Ширина рамки */
+    height: 20px; /* Высота рамки */
+    background-color: #cecece; /* Цвет фона рамки */
+    border: 2px solid #cecece; /* Цвет и толщина рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: right; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: 900; /* Bolt (жирный) */
+    font-size: 14px; /* Размер шрифта */
+    color: #5D5FEF; /* Цвет текста */
+}
+
+.your {
+    position: absolute;
+    top: 595px; /* Отступ сверху */
+    left: 569px; /* Отступ слева */
+    width: 125px; /* Ширина рамки */
+    height: 20px; /* Высота рамки */
+    background-color: #cecece; /* Цвет фона рамки */
+    border: 2px solid #cecece; /* Цвет и толщина рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: right; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: 900; /* Bolt (жирный) */
+    font-size: 14px; /* Размер шрифта */
+    color: #5D5FEF; /* Цвет текста */
+}
