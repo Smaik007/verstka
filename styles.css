@@ -260,3 +260,11 @@ header, main, footer {
     width: 40px; /* Ширина фото */
     height: 40px; /* Высота фото */
 }
+
+.symbol{
+    position: absolute;
+    top: 580px; /* Отступ сверху */
+    left: 113px; /* Отступ слева */
+    width: 50px; /* Ширина фото */
+    height: 50px; /* Высота фото */
+}
