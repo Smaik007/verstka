@@ -25,6 +25,7 @@ header, main, footer {
     width: 555px; /* Ширина фотографии */
     height: 570px; /* Высота фотографии */
     border-radius: 10px; /* Закругление границ */
+    overflow: hidden; /* Скрываем содержимое, выходящее за пределы */
 }
 
 .photoRW {
@@ -93,13 +94,15 @@ header, main, footer {
     width: 275px; /* Ширина фото */
     height: 352px; /* Высота фото */
 }
-.Pargination{
+
+.Pagination { /* Исправлено название класса */
     position: absolute;
     top: 510px; /* Отступ сверху */
     left: 224px; /* Отступ слева */
     width: 108px; /* Ширина фото */
     height: 20px; /* Высота фото */
 }
+
 .ReadMore {
     position: absolute;
     top: 280px; /* Отступ сверху */
