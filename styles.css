@@ -157,3 +157,20 @@ header, main, footer {
     font-size: 14px; /* Размер шрифта */
     color: #939699; /* Цвет текста */
 }
+
+.subscribe-box {
+    position: absolute;
+    top: 60px; /* Отступ сверху */
+    left: 308px; /* Отступ слева */
+    width: 750px; /* Ширина рамки */
+    height: 50px; /* Высота рамки */
+    background-color: #cecece; /* Цвет фона рамки */
+    border: 2px solid #cecece; /* Цвет и толщина рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: center; /* Вертикальное центрирование */
+    font-family: 'Roboto Slab', serif; /* Шрифт Roboto Slab */
+    font-weight: bold; /* Bolt (жирный) */
+    font-size: 40px; /* Размер шрифта */
+    color: #5D5FEF; /* Цвет текста */
+}
