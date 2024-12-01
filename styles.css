@@ -93,7 +93,13 @@ header, main, footer {
     width: 275px; /* Ширина фото */
     height: 352px; /* Высота фото */
 }
-
+.Pargination{
+    position: absolute;
+    top: 510px; /* Отступ сверху */
+    left: 224px; /* Отступ слева */
+    width: 108px; /* Ширина фото */
+    height: 20px; /* Высота фото */
+}
 .ReadMore {
     position: absolute;
     top: 280px; /* Отступ сверху */
