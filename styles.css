@@ -286,3 +286,20 @@ header, main, footer {
     height: 1px; /* Высота прямоугольника */
     background-color: #fff; /* Цвет прямоугольника */
 }
+
+.universal-box {
+    position: absolute;
+    top: 700px; /* Отступ сверху */
+    left: 113px; /* Отступ слева */
+    width: 750px; /* Ширина рамки */
+    height: 40px; /* Высота рамки */
+    background-color: #cecece; /* Цвет фона рамки */
+    border: 2px solid #cecece; /* Цвет и толщина рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: center; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: normal; /* Bolt (жирный) */
+    font-size: 14px; /* Размер шрифта */
+    color: #fff; /* Цвет текста */
+}
