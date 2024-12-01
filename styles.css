@@ -334,6 +334,7 @@ header, main, footer {
     align-items: right; /* Вертикальное центрирование */
     font-family: 'Lato', sans-serif; /* Шрифт Lato */
     font-weight: 900; /* Bolt (жирный) */
+    letter-spacing: 0.5px;
     font-size: 14px; /* Размер шрифта */
     color: #5D5FEF; /* Цвет текста */
 }
@@ -350,6 +351,7 @@ header, main, footer {
     justify-content: center; /* Горизонтальное центрирование */
     align-items: right; /* Вертикальное центрирование */
     font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    letter-spacing: 0.5px;
     font-weight: 900; /* Bolt (жирный) */
     font-size: 14px; /* Размер шрифта */
     color: #5D5FEF; /* Цвет текста */
@@ -367,6 +369,7 @@ header, main, footer {
     justify-content: center; /* Горизонтальное центрирование */
     align-items: right; /* Вертикальное центрирование */
     font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    letter-spacing: 0.5px;
     font-weight: 900; /* Bolt (жирный) */
     font-size: 14px; /* Размер шрифта */
     color: #5D5FEF; /* Цвет текста */
@@ -384,6 +387,7 @@ header, main, footer {
     justify-content: center; /* Горизонтальное центрирование */
     align-items: right; /* Вертикальное центрирование */
     font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    letter-spacing: 0.5px;
     font-weight: 900; /* Bolt (жирный) */
     font-size: 14px; /* Размер шрифта */
     color: #5D5FEF; /* Цвет текста */
