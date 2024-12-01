@@ -408,7 +408,7 @@ header, main, footer {
     letter-spacing: 0px;
     font-weight: 900; /* Bolt (жирный) */
     font-size: 14px; /* Размер шрифта */
-    color: #19191A; /* Цвет текста */
+    color: #5D5FEF; /* Цвет текста */
 }
 
 .nation {
@@ -424,9 +424,9 @@ header, main, footer {
     align-items: left; /* Вертикальное центрирование */
     font-family: 'Lato', sans-serif; /* Шрифт Lato */
     letter-spacing: 0px;
-    font-weight: 900; /* Bolt (жирный) */
+    font-weight: normal; /* Bolt (жирный) */
     font-size: 14px; /* Размер шрифта */
-    color: #19191A; /* Цвет текста */
+    color: #4B5157; /* Цвет текста */
 }
 
 .world {
@@ -442,9 +442,9 @@ header, main, footer {
     align-items: left; /* Вертикальное центрирование */
     font-family: 'Lato', sans-serif; /* Шрифт Lato */
     letter-spacing: 0px;
-    font-weight: 900; /* Bolt (жирный) */
+    font-weight: normal; /* Bolt (жирный) */
     font-size: 14px; /* Размер шрифта */
-    color: #19191A; /* Цвет текста */
+    color: #4B5157; /* Цвет текста */
 }
 
 .politics {
@@ -460,9 +460,9 @@ header, main, footer {
     align-items: left; /* Вертикальное центрирование */
     font-family: 'Lato', sans-serif; /* Шрифт Lato */
     letter-spacing: 0px;
-    font-weight: 900; /* Bolt (жирный) */
+    font-weight: normal; /* Bolt (жирный) */
     font-size: 14px; /* Размер шрифта */
-    color: #19191A; /* Цвет текста */
+    color: #4B5157; /* Цвет текста */
 }
 
 .solar {
@@ -478,7 +478,7 @@ header, main, footer {
     align-items: left; /* Вертикальное центрирование */
     font-family: 'Lato', sans-serif; /* Шрифт Lato */
     letter-spacing: 0px;
-    font-weight: 900; /* Bolt (жирный) */
+    font-weight: normal; /* Bolt (жирный) */
     font-size: 14px; /* Размер шрифта */
-    color: #19191A; /* Цвет текста */
+    color: #4B5157; /* Цвет текста */
 }
