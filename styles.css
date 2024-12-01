@@ -133,3 +133,11 @@ header, main, footer {
     margin-bottom: 1rem; /* Отступ снизу */
     margin-right: 1rem; /* Отступ справа */
 }
+
+.BackMail{
+    position: absolute;
+    top: 135px; /* Отступ сверху */
+    left: 462px; /* Отступ слева */
+    width: 313px; /* Ширина фото */
+    height: 40px; /* Высота фото */    
+}
