@@ -174,3 +174,57 @@ header, main, footer {
     font-size: 40px; /* Размер шрифта */
     color: #5D5FEF; /* Цвет текста */
 }
+
+.red-line {
+    position: absolute;
+    top: 245px; /* Отступ сверху */
+    left: 113px; /* Отступ слева */
+    width: 195px; /* Ширина прямоугольника */
+    height: 5px; /* Высота прямоугольника */
+    background-color: #FF4F52; /* Цвет прямоугольника */
+}
+
+.purple-line {
+    position: absolute;
+    top: 245px; /* Отступ сверху */
+    left: 308px; /* Отступ слева */
+    width: 195px; /* Ширина прямоугольника */
+    height: 5px; /* Высота прямоугольника */
+    background-color: #AC8EE3; /* Цвет прямоугольника */
+}
+
+.blue-line {
+    position: absolute;
+    top: 245px; /* Отступ сверху */
+    left: 503px; /* Отступ слева */
+    width: 195px; /* Ширина прямоугольника */
+    height: 5px; /* Высота прямоугольника */
+    background-color: #4592FF; /* Цвет прямоугольника */
+}
+
+.yellow-line {
+    position: absolute;
+    top: 245px; /* Отступ сверху */
+    left: 698px; /* Отступ слева */
+    width: 195px; /* Ширина прямоугольника */
+    height: 5px; /* Высота прямоугольника */
+    background-color: #FFA34D; /* Цвет прямоугольника */
+}
+
+.green-line {
+    position: absolute;
+    top: 245px; /* Отступ сверху */
+    left: 893px; /* Отступ слева */
+    width: 195px; /* Ширина прямоугольника */
+    height: 5px; /* Высота прямоугольника */
+    background-color: #3DC47E; /* Цвет прямоугольника */
+}
+
+.lightblue-line {
+    position: absolute;
+    top: 245px; /* Отступ сверху */
+    left: 1088px; /* Отступ слева */
+    width: 165px; /* Ширина прямоугольника */
+    height: 5px; /* Высота прямоугольника */
+    background-color: #6E99AE; /* Цвет прямоугольника */
+}
