@@ -114,4 +114,22 @@ header, main, footer {
 .footer {    
     height: 742.5px;
     background-color: #cecece;
+    position: relative;
+    display: flex;
 }
+
+.btn {    
+    position: absolute;
+    top: 135px; /* Отступ сверху */
+    left: 785px; /* Отступ слева */
+    width: 119px; /* Ширина фото */
+    height: 40px; /* Высота фото */
+    padding: 0.5em 1.5em; /* Поля по вертикали и горизонтали */
+    font-size: 0.9em; /* Размер текста */
+    color: #fff; /* Белый цвет текста */
+    background-color: #4592FF; /* Цвет фона кнопки */
+    border-width: 0; /* Убираем рамку */
+    border-radius: 20px; /* Радиус скругления */
+    margin-bottom: 1rem; /* Отступ снизу */
+    margin-right: 1rem; /* Отступ справа */
+   }
