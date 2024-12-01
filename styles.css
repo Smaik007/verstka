@@ -268,3 +268,21 @@ header, main, footer {
     width: 50px; /* Ширина фото */
     height: 50px; /* Высота фото */
 }
+
+.lightblue-line {
+    position: absolute;
+    top: 549px; /* Отступ сверху */
+    left: 113px; /* Отступ слева */
+    width: 1140px; /* Ширина прямоугольника */
+    height: 1px; /* Высота прямоугольника */
+    background-color: #fff; /* Цвет прямоугольника */
+}
+
+.lightblue-line {
+    position: absolute;
+    top: 659px; /* Отступ сверху */
+    left: 113px; /* Отступ слева */
+    width: 1140px; /* Ширина прямоугольника */
+    height: 1px; /* Высота прямоугольника */
+    background-color: #fff; /* Цвет прямоугольника */
+}
