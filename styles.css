@@ -228,3 +228,35 @@ header, main, footer {
     height: 5px; /* Высота прямоугольника */
     background-color: #6E99AE; /* Цвет прямоугольника */
 }
+
+.facebook {
+    position: absolute;
+    top: 585px; /* Отступ сверху */
+    left: 1048px; /* Отступ слева */
+    width: 40px; /* Ширина фото */
+    height: 40px; /* Высота фото */
+}
+
+.twitter {
+    position: absolute;
+    top: 585px; /* Отступ сверху */
+    left: 1103px; /* Отступ слева */
+    width: 40px; /* Ширина фото */
+    height: 40px; /* Высота фото */
+}
+
+.youtube {
+    position: absolute;
+    top: 585px; /* Отступ сверху */
+    left: 1158px; /* Отступ слева */
+    width: 40px; /* Ширина фото */
+    height: 40px; /* Высота фото */
+}
+
+.insta {
+    position: absolute;
+    top: 585px; /* Отступ сверху */
+    left: 1213px; /* Отступ слева */
+    width: 40px; /* Ширина фото */
+    height: 40px; /* Высота фото */
+}
