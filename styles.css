@@ -136,6 +136,55 @@ header, main, footer {
     height: 40px; /* Высота фото */
 }
 
+.careersText{
+    position: absolute;
+    top: 35px; /* Отступ сверху */
+    left: 35px; /* Отступ слева */
+    width: 213px; /* Ширина рамки */
+    height: 15px; /* Высота рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: left; /* Горизонтальное центрирование */
+    align-items: left; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: 900; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 12px; /* Размер шрифта */
+    color: #6E99AE; /* Цвет текста */
+}
+
+.had-job{
+    position: absolute;
+    top: 70px; /* Отступ сверху */
+    left: 35px; /* Отступ слева */
+    width: 243px; /* Ширина рамки */
+    height: 90px; /* Высота рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: left; /* Горизонтальное центрирование */
+    align-items: left; /* Вертикальное центрирование */
+    font-family: 'Roboto Slab', serif; /* Шрифт Roboto Slab */
+    font-weight: bold; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 25px; /* Размер шрифта */
+    color: #5D5FEF; /* Цвет текста */
+}
+
+.tryText{
+    position: absolute;
+    top: 175px; /* Отступ сверху */
+    left: 35px; /* Отступ слева */
+    width: 213px; /* Ширина рамки */
+    height: 80px; /* Высота рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: left; /* Горизонтальное центрирование */
+    align-items: left; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: normal; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 14px; /* Размер шрифта */
+    color: #4B5157; /* Цвет текста */
+}
+
+
 .imageDama {
     position: absolute;
     top: 18px; /* Отступ сверху */
