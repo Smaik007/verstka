@@ -85,7 +85,6 @@ header, main, footer {
     left: 195px; /* Отступ слева */
     width: 166px; /* Ширина рамки */
     height: 20px; /* Высота рамки */
-    background-color: rgba(0, 0, 0, 0.5); /* Цвет фона с прозрачностью */
     display: flex; /* Используем flexbox для центрирования текста */
     justify-content: center; /* Горизонтальное центрирование */
     align-items: center; /* Вертикальное центрирование */
@@ -102,7 +101,6 @@ header, main, footer {
     left: 195px; /* Отступ слева */
     width: 166px; /* Ширина рамки */
     height: 20px; /* Высота рамки */
-    background-color: rgba(0, 0, 0, 0.5); /* Цвет фона с прозрачностью */
     display: flex; /* Используем flexbox для центрирования текста */
     justify-content: center; /* Горизонтальное центрирование */
     align-items: center; /* Вертикальное центрирование */
@@ -119,7 +117,6 @@ header, main, footer {
     left: 50px; /* Отступ слева */
     width: 455px; /* Ширина рамки */
     height: 150px; /* Высота рамки */
-    background-color: rgba(0, 0, 0, 0.5); /* Цвет фона с прозрачностью */
     display: flex; /* Используем flexbox для центрирования текста */
     justify-content: center; /* Горизонтальное центрирование */
     align-items: center; /* Вертикальное центрирование */
