@@ -193,7 +193,7 @@ header, main, footer {
     height: 352px; /* Высота фото */
 }
 
-.Pagination { /* Исправлено название класса */
+.Pagination { 
     position: absolute;
     top: 510px; /* Отступ сверху */
     left: 224px; /* Отступ слева */
@@ -207,6 +207,103 @@ header, main, footer {
     left: 35px; /* Отступ слева */
     width: 138px; /* Ширина фото */
     height: 40px; /* Высота фото */
+}
+
+.coffe{
+    position: absolute;
+    top: 25px; /* Отступ сверху */
+    left: 25px; /* Отступ слева */
+    width: 213px; /* Ширина рамки */
+    height: 25px; /* Высота рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: left; /* Горизонтальное центрирование */
+    align-items: left; /* Вертикальное центрирование */
+    font-family: 'Roboto Slab', serif; /* Шрифт Roboto Slab */
+    font-weight: bold; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 16px; /* Размер шрифта */
+    color: #5D5FEF; /* Цвет текста */
+}
+
+.coffeText{
+    position: absolute;
+    top: 55px; /* Отступ сверху */
+    left: 25px; /* Отступ слева */
+    width: 213px; /* Ширина рамки */
+    height: 60px; /* Высота рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: left; /* Горизонтальное центрирование */
+    align-items: left; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: normal; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 14px; /* Размер шрифта */
+    color: #4B5157; /* Цвет текста */
+}
+
+.oct15{
+    position: absolute;
+    top: 125px; /* Отступ сверху */
+    left: 25px; /* Отступ слева */
+    width: 213px; /* Ширина рамки */
+    height: 15px; /* Высота рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: left; /* Горизонтальное центрирование */
+    align-items: left; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: normal; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 12px; /* Размер шрифта */
+    color: #939699; /* Цвет текста */
+}
+
+
+.what{
+    position: absolute;
+    top: 25px; /* Отступ сверху */
+    left: 25px; /* Отступ слева */
+    width: 213px; /* Ширина рамки */
+    height: 25px; /* Высота рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: left; /* Горизонтальное центрирование */
+    align-items: left; /* Вертикальное центрирование */
+    font-family: 'Roboto Slab', serif; /* Шрифт Roboto Slab */
+    font-weight: bold; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 16px; /* Размер шрифта */
+    color: #5D5FEF; /* Цвет текста */
+}
+
+.global{
+    position: absolute;
+    top: 55px; /* Отступ сверху */
+    left: 25px; /* Отступ слева */
+    width: 213px; /* Ширина рамки */
+    height: 60px; /* Высота рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: left; /* Горизонтальное центрирование */
+    align-items: left; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: normal; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 14px; /* Размер шрифта */
+    color: #4B5157; /* Цвет текста */
+}
+
+.oct14{
+    position: absolute;
+    top: 125px; /* Отступ сверху */
+    left: 25px; /* Отступ слева */
+    width: 213px; /* Ширина рамки */
+    height: 15px; /* Высота рамки */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: left; /* Горизонтальное центрирование */
+    align-items: left; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: normal; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 12px; /* Размер шрифта */
+    color: #939699; /* Цвет текста */
 }
  /* footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer */
 .footer {    
