@@ -164,6 +164,7 @@ header, main, footer {
     font-family: 'Roboto Slab', serif; /* Шрифт Roboto Slab */
     font-weight: bold; /* normal */
     letter-spacing: 0.5px;
+    line-height: normal;
     font-size: 25px; /* Размер шрифта */
     color: #5D5FEF; /* Цвет текста */
 }
@@ -180,6 +181,7 @@ header, main, footer {
     font-family: 'Lato', sans-serif; /* Шрифт Lato */
     font-weight: normal; /* normal */
     letter-spacing: 0.5px;
+    line-height: 150%;
     font-size: 14px; /* Размер шрифта */
     color: #4B5157; /* Цвет текста */
 }
