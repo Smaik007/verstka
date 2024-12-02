@@ -79,6 +79,57 @@ header, main, footer {
     color: white; /* Цвет текста */
 }
 
+.Sarah{
+    position: absolute;
+    top: 103px; /* Отступ сверху */
+    left: 195px; /* Отступ слева */
+    width: 166px; /* Ширина рамки */
+    height: 20px; /* Высота рамки */
+    background-color: rgba(0, 0, 0, 0.5); /* Цвет фона с прозрачностью */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: center; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: normal; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 14px; /* Размер шрифта */
+    color: #fff; /* Цвет текста */
+}
+
+.Photographer{
+    position: absolute;
+    top: 125px; /* Отступ сверху */
+    left: 195px; /* Отступ слева */
+    width: 166px; /* Ширина рамки */
+    height: 20px; /* Высота рамки */
+    background-color: rgba(0, 0, 0, 0.5); /* Цвет фона с прозрачностью */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: center; /* Вертикальное центрирование */
+    font-family: 'Lato', sans-serif; /* Шрифт Lato */
+    font-weight: normal; /* normal */
+    letter-spacing: 0.5px;
+    font-size: 12px; /* Размер шрифта */
+    color: #D0D0D0; /* Цвет текста */
+}
+
+.ReadersText{
+    position: absolute;
+    top: 170px; /* Отступ сверху */
+    left: 50px; /* Отступ слева */
+    width: 455px; /* Ширина рамки */
+    height: 150px; /* Высота рамки */
+    background-color: rgba(0, 0, 0, 0.5); /* Цвет фона с прозрачностью */
+    display: flex; /* Используем flexbox для центрирования текста */
+    justify-content: center; /* Горизонтальное центрирование */
+    align-items: center; /* Вертикальное центрирование */
+    font-family: 'Roboto Slab', serif; /* Шрифт Roboto Slab */
+    font-weight: bold; /* Bolt (жирный) */
+    letter-spacing: 0.5px;
+    font-size: 40px; /* Размер шрифта */
+    color: #fff; /* Цвет текста */
+}
+
 .watch {
     position: absolute;
     top: 365px; /* Отступ сверху относительно .photoLW */
@@ -110,7 +161,7 @@ header, main, footer {
     width: 138px; /* Ширина фото */
     height: 40px; /* Высота фото */
 }
-
+ /* footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer footer */
 .footer {    
     height: 742.5px;
     background-color: #cecece;
