@@ -163,8 +163,8 @@ header, main, footer {
     align-items: left; /* Вертикальное центрирование */
     font-family: 'Roboto Slab', serif; /* Шрифт Roboto Slab */
     font-weight: bold; /* normal */
-    letter-spacing: 0.5px;
-    line-height: 125%;
+    letter-spacing: 0.0px;
+    line-height: normal%;
     font-size: 25px; /* Размер шрифта */
     color: #5D5FEF; /* Цвет текста */
 }
