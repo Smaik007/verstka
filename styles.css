@@ -38,6 +38,10 @@ header, main, footer {
     border-radius: 10px; /* Закругление границ */
 }
 
+.photoRW > img {
+    border-radius: 10px;
+}
+
 .rectangle {
     position: absolute;
     width: 263px;
