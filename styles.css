@@ -164,7 +164,7 @@ header, main, footer {
     font-family: 'Roboto Slab', serif; /* Шрифт Roboto Slab */
     font-weight: bold; /* normal */
     letter-spacing: 0.5px;
-    line-height: normal;
+    line-height: 125%;
     font-size: 25px; /* Размер шрифта */
     color: #5D5FEF; /* Цвет текста */
 }
