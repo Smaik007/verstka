@@ -13,7 +13,7 @@ header, main, footer {
 .readers {
     background-color: #5D5FEF;
     height: 742.5px;
-    padding: 60px 113px 112.5px 113px;
+    /* padding: 60px 113px 112.5px 113px; */
     position: relative;
     display: flex;
 }
@@ -164,7 +164,7 @@ header, main, footer {
     font-family: 'Roboto Slab', serif; /* Шрифт Roboto Slab */
     font-weight: bold; /* normal */
     letter-spacing: 0.0px;
-    line-height: normal%;
+    line-height: normal;
     font-size: 25px; /* Размер шрифта */
     color: #5D5FEF; /* Цвет текста */
 }
