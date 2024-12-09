@@ -141,6 +141,22 @@ header, main, footer {
     height: 40px; /* Высота фото */
 }
 
+.watch-link {
+  display: inline-block; /* Делаем ссылку блочным элементом */
+  text-decoration: none; /* Убираем подчеркивание */
+  border: none; /* Убираем границу */
+  cursor: pointer; /* Делаем курсор указателем */
+  width: 185px; /* Ширина как у изображения */
+  height: 40px; /* Высота как у изображения */
+  line-height: 40px; /* Выравнивание по вертикали */
+  text-align: center; /* Выравнивание по горизонтали */
+  background-color: transparent; /* Прозрачный фон */
+}
+
+.watch-link img {
+  vertical-align: middle; /* Выравнивание изображения по центру */
+}
+
 .careersText{
     position: absolute;
     top: 35px; /* Отступ сверху */
@@ -191,7 +207,6 @@ header, main, footer {
     color: #4B5157; /* Цвет текста */
 }
 
-
 .imageDama {
     position: absolute;
     top: 18px; /* Отступ сверху */
@@ -214,6 +229,22 @@ header, main, footer {
     left: 35px; /* Отступ слева */
     width: 138px; /* Ширина фото */
     height: 40px; /* Высота фото */
+}
+
+.read-more-link {
+  display: inline-block; /* Делаем ссылку блочным элементом */
+  text-decoration: none; /* Убираем подчеркивание */
+  border: none; /* Убираем границу */
+  cursor: pointer; /* Делаем курсор указателем */
+  width: 138px; /* Ширина как у изображения */
+  height: 40px; /* Высота как у изображения */
+  line-height: 40px; /* Выравнивание по вертикали */
+  text-align: center; /* Выравнивание по горизонтали */
+  background-color: transparent; /* Прозрачный фон */
+}
+
+.read-more-link img {
+  vertical-align: middle; /* Выравнивание изображения по центру */
 }
 
 .coffe{
